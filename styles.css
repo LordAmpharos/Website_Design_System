@@ -1,0 +1,53 @@
+.header {
+    margin-left: 50px;
+}
+.content {
+    border: 1px black solid;
+    margin-bottom: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-left: 10px;
+}
+
+h1 {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.colorElements {
+    list-style-type: none;
+    text-align: center;
+}
+
+li#color {
+    display: inline-block;
+    margin: 0 20px;
+}
+
+.coolBlue {
+    background-color: #2d5dcc;
+    padding: 10px 100px;
+}
+
+.pink {
+    background-color: #d957d9;
+    padding: 10px 100px;
+}
+
+.mintGreen {
+    background-color: #4fe0b0;
+    padding: 10px 100px;
+}
+
+.beige {
+    background-color: #efd9ca;
+    padding: 10px 100px;
+}
+
